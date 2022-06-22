@@ -392,12 +392,8 @@ export default () => {
       }
 
   }
-  class Company2 {
-    name = 'Company2'
-  }
 
   const company1 = new Company1(new TraPaymentProcessor())
-  // const company2 = new Company2(new TraPaymentProcessor())
   company1.processPayment()
 }
 
