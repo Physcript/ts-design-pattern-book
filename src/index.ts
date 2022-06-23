@@ -6,6 +6,7 @@ import chapter_3 from './chapter_3'
 import chapter_3_review from './chapter_3_review'
 import chapter_3_test_review from './chapter_3_test_review'
 import chapter_4 from './chapter_4'
+import chapter_5 from './chapter_5'
 
 
-chapter_4()
+chapter_5()
